@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/taktik/taktik-free-text-search.svg?branch=master)](https://travis-ci.org/taktik/taktik-free-text-search)
+
 # \<taktik-free-text-search\>
 
 
