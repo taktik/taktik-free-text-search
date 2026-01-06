@@ -393,6 +393,7 @@ Custom property | Description | Default
 
       _clear(){
         this.set("searchValue", "");
+        this.fireTaktikSearch();
       }
     }
     window.customElements.define(TaktikFreeTextSearch.is, TaktikFreeTextSearch);
